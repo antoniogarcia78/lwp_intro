@@ -1,0 +1,22 @@
+/* selector tag html */
+h1 {
+  /* color texto: existe colores por nombre,rgb,hex */
+  /* color:blue; */
+  /* color:#00f; */
+  color: #0000ff;
+h2 {
+  /* tipo de fuente */
+  font-style:italic;
+  /* centrado de texto */
+  text-align:center;
+}
+p {
+  /* tipografia */
+  font-family: sans-serif;
+}
+ul {
+  /* tamaño letra */
+  font-size: 20px;
+  /* separacion entre lineas */
+  line-height: 30px;
+}
