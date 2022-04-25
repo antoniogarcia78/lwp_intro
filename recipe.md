@@ -26,4 +26,4 @@ This recipe is from my dad and they are a favorite among friends and family. The
 6. Bake for **10 minutes** or until golden brown.
 
 [Click Here](http://allrecipes.com) to check out my other great recipes.
-![An image of a cookie](http://lorempixel.com/400/200)
+![An image of a cookie](https://picsum.photos/200/300)
